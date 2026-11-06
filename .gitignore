@@ -1,0 +1,17 @@
+# Dossiers de compilation
+build/
+bin/
+lib/
+*.exe
+*.out
+
+# Objets compilés
+*.o
+*.obj
+
+# IDEs et éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
