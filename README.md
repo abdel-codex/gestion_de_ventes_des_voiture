@@ -15,6 +15,7 @@ Ce projet est une application console développée en **C++** selon les principe
 * **Gestion de versions** : Git & Gitflow
 
 ## 📁 Structure du Projet
+```text
 GestionVenteVoitures/
 ├── CMakeLists.txt
 ├── .gitignore
